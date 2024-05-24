@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">Aspiring game designer and developer</h3>
-
+ 
 - 🔭 I’m currently working on **completing my TripleTen bootcamp and getting my BS in Computer Science**
 
 - 🌱 I’m currently learning **Unity / C#, Javascript**
