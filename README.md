@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">Aspiring game designer and developer</h3>
+<h3 align="center">Web developer, protector of cats</h3>
    
 - 🔭 I’m currently working on **completing my TripleTen bootcamp and getting my BS in Computer Science**
  
@@ -10,6 +10,8 @@
 - 💬 Ask me about **hidden gems from the 90s/00s era of games**
 
 - ⚡ Fun fact **I was a pediatric nurse for 6 years**
+
+<p align="left>I'm Grace, a web developer driven by the power of technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
