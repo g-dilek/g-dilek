@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **hidden gems from the 90s/00s era of games**
 
-- ⚡ Fun fact **I was a pediatric nurse for 6 years**
+- ⚡ Fun fact **I was a pediatric nurse for 6 years, with 12 years total healthcare experience**
 
 I'm a web developer driven by the power of technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.
 
