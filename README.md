@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I was a pediatric nurse for 6 years**
 
-<p align="left>I'm Grace, a web developer driven by the power of technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.</p>
+I'm Grace, a web developer driven by the power of technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
