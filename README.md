@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I was a pediatric nurse for 6 years, with 12 years total healthcare experience**
 
-I'm a web developer driven by the power of technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.
+I'm a web developer driven by a desire to use technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
