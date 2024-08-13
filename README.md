@@ -2,7 +2,7 @@
 <h3 align="center">Web developer, protector of cats</h3>
       
 - 🔭 I’m currently working on **completing my TripleTen bootcamp and getting my BS in Computer Science**
- 
+  
 - 🌱 I’m currently learning **Unity / C#, Javascript**
 
 - 🤝 I’m currently working at **Code Ninjas, teaching kids how to make games**
