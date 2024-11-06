@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact: **I was a pediatric nurse for 6 years, with 12 years total healthcare experience**
 
-I'm a web developer driven by a desire to use technology for good. Drawing from my background in pediatric nursing and a lifelong passion for gaming, I craft digital experiences that bring joy, community, and inspiration to the young and young at heart.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/grace-persion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grace-persion/" height="30" width="40" /></a>
