@@ -3,7 +3,7 @@
             
 - 🔭 I’m currently working on **completing my Bachelor's in Computer Science**
   
-- 🌱 I’m currently learning **Unity / C#, Javascript**
+- 🌱 I’m currently learning **JavaScript, Unity / C#, Unreal / C++**
 
 - 🤝 I’m currently working at **Code Ninjas, teaching kids how to make games**
 
